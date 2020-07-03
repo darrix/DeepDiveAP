@@ -5,3 +5,5 @@
 .vscode/
 paket-files/
 .~DeepDiveActivePatterns.pptx
+
+.fake
